@@ -1,0 +1,42 @@
+{
+  "menu": [{
+      "name": "Fish n' Chips",
+      "price": 12.00,
+      "desc": "Fresh caught fish from the ala wai! Comes with fresh fries! A classic british platter."
+
+
+    },
+    {
+      "name": "Soup of the day",
+      "price": 3.00,
+      "desc": "Whatever the chef feels like making today,comes with free soup of the day."
+
+
+    },
+    {
+      "name": "Fried chicken",
+      "price": 8.00,
+      "desc": "Fresh Chicken deep fried to perfectioncomes with ,rice,corn and soup of the day"
+
+
+    }, {
+      "name": "Bentote box",
+      "price": 12.00,
+      "desc": "Classic onolicious seafood box,comes with spicy ahi and california rolls.(WARNING:contains raw and undercooked foods)"
+
+
+    }, {
+      "name": "Double Egg Omelet",
+      "price": 11.00,
+      "desc": "Omelet only made from rare double yolk eggs, comes with 4 bacon and soup of the day."
+
+
+    }, {
+      "name": "Mega Honk Burger",
+      "price": 14.00,
+      "desc": "Our world-famous singature burger, made with our mystery meat, a top secret recipe."
+
+
+    }
+  ]
+}
